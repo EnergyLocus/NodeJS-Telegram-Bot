@@ -1,4 +1,4 @@
-# NoseJs Telegram Bot
+# NodeJs Telegram Bot
 
 This repository will contain a telegram bot made using Node.JS
 This repository is empty for now. As I need to learn Node.JS myself before creating bots.
